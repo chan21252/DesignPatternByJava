@@ -65,3 +65,20 @@
     - 实现：
         1. 实现Cloneable接口，重写clone()方法，值复制调用super.clone，引用复制调用引用类型成员的clone方法
         2. 实现Serializable接口，通过序列化实现。object-》ObjectOutputStream-》ByteArrayOutputStream-》byte[]-》ByteInputStream-》ObjectInputStream-》CloneObject。（推荐使用）
+        
+ ## 六、建造者模式
+ 
+ > 解决复杂对象的构建问题，按照构建蓝图一步步创建对象，使用者无需了解对象创建的细节。
+ 
+ ###　四个角色：
+ - product：产品，即要创建的对象
+ - builder：抽象创建者，定义了创建对象的步骤
+ - concrete builder：具体创建者，实现了创建对象的步骤落实，以及返回对象
+ - director：指挥者，指挥具体创建者通过各个步骤创建对象、
+ 
+### UML类图：
+![](https://uploader.shimo.im/f/jdg4CYbwQag3Oxwg.jpg)
+     
+### 和工厂模式对比：
+- 工厂模式创建的是一系列产品，通过不同的工厂创建对应的对象，不需要关心构建过程
+- 建造者模式是解决对象创建时的复杂问题，类似通过设计图一步步组装产品的过程

@@ -1,0 +1,229 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="459.11181640625" height="218">
+    <defs/>
+    <g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="733" y="297" width="58.11181640625" height="44" opacity="0.2"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="726" y="290" width="58.11181640625" height="44"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 726 290 L 784.11181640625 290 L 784.11181640625 334 L 726 334 L 726 290 Z Z"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 726 315 L 784.11181640625 315" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 726 325 L 784.11181640625 325" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="732.655029296875" y="309.5">Product
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="563" y="269" width="106.51904296875" height="100" opacity="0.2"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="556" y="262" width="106.51904296875" height="100"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 556 262 L 662.51904296875 262 L 662.51904296875 362 L 556 362 L 556 262 Z Z"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 556 287 L 662.51904296875 287" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 556 310 L 662.51904296875 310" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="565.1845703125" y="281.5">AbstractBuilder
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="561" y="304.5">#Product
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="italic"
+                      font-weight="normal" text-decoration="none" x="561" y="327.5">+Operation1()
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="italic"
+                      font-weight="normal" text-decoration="none" x="561" y="342.5">+Operation2()
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="561" y="357.5">+getProduct()
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 725 312 L 664 312" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="#000000" stroke="none"
+                  d="M 674.1626748576241 307.790482243984 L 664 312 L 674.1626748576241 316.209517756016 L 686 312"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 674.1626748576241 307.790482243984 L 664 312 L 674.1626748576241 316.209517756016 L 686 312 L 674.1626748576241 307.790482243984"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="570" y="423" width="93.5126953125" height="44" opacity="0.2"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="563" y="416" width="93.5126953125" height="44"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 563 416 L 656.5126953125 416 L 656.5126953125 460 L 563 460 L 563 416 Z Z"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 563 441 L 656.5126953125 441" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 563 451 L 656.5126953125 451" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="571.457763671875" y="435.5">ActualBuilder
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 609 415 L 609 363" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="#FFFFFF" stroke="none"
+                  d="M 617.419035512032 383.3253497152483 L 609 363 L 600.580964487968 383.3253497152483"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 617.419035512032 383.3253497152483 L 609 363 L 600.580964487968 383.3253497152483 L 617.419035512032 383.3253497152483"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="352" y="284" width="158.2080078125" height="70" opacity="0.2"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="345" y="277" width="158.2080078125" height="70"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 345 277 L 503.2080078125 277 L 503.2080078125 347 L 345 347 L 345 277 Z Z"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 345 302 L 503.2080078125 302" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 345 325 L 503.2080078125 325" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="401.350830078125" y="296.5">Director
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="350" y="319.5">-AbstractBuilder
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="350" y="342.5">+builProduct()
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 555 312 L 504 312" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="#FFFFFF" stroke="none"
+                  d="M 514.1626748576241 307.790482243984 L 504 312 L 514.1626748576241 316.209517756016 L 526 312"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 514.1626748576241 307.790482243984 L 504 312 L 514.1626748576241 316.209517756016 L 526 312 L 514.1626748576241 307.790482243984"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="406" y="423" width="50.919921875" height="44" opacity="0.2"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="399" y="416" width="50.919921875" height="44"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 399 416 L 449.919921875 416 L 449.919921875 460 L 399 460 L 399 416 Z Z" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 399 441 L 449.919921875 441" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 399 451 L 449.919921875 451" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="407.841796875" y="435.5">Client
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 424 415 L 424 348" stroke-miterlimit="10" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 428.209517756016 358.16267485762415 L 424 348 L 419.790482243984 358.16267485762415"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 451 438 L 562 438" stroke-miterlimit="10" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-335,-252) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 551.8373251423759 442.209517756016 L 562 438 L 551.8373251423758 433.790482243984"
+                  stroke-miterlimit="10"/>
+        </g>
+    </g>
+</svg>
