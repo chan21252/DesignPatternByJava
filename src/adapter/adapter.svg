@@ -1,0 +1,355 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="869.51806640625" height="389">
+    <defs/>
+    <g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="183" y="167" width="89.57080078125" height="57" opacity="0.2"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="176" y="160" width="89.57080078125" height="57"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 176 160 L 265.57080078125 160 L 265.57080078125 217 L 176 217 L 176 160 Z Z"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 176 185 L 265.57080078125 185" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 176 195 L 265.57080078125 195" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="211.035400390625" y="179.5">Src
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="181" y="212.5">+srcOutput()
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="375" y="167" width="97.51806640625" height="57" opacity="0.2"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="368" y="160" width="97.51806640625" height="57"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 368 160 L 465.51806640625 160 L 465.51806640625 217 L 368 217 L 368 160 Z Z"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 368 185 L 465.51806640625 185" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 368 195 L 465.51806640625 195" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="398.693603515625" y="179.5">Target
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="373" y="212.5">+targetOutput()
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="295" y="303" width="58.1181640625" height="44" opacity="0.2"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="288" y="296" width="58.1181640625" height="44"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 288 296 L 346.1181640625 296 L 346.1181640625 340 L 288 340 L 288 296 Z Z"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 288 321 L 346.1181640625 321" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 288 331 L 346.1181640625 331" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="294.293212890625" y="315.5">Adapter
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 300 295 L 242 218" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="#FFFFFF" stroke="none"
+                  d="M 260.953652340478 229.16955965811962 L 242 218 L 247.5041847210802 239.30032747532834"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 260.953652340478 229.16955965811962 L 242 218 L 247.5041847210802 239.30032747532834 L 260.953652340478 229.16955965811962"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 335 295 L 393 218" stroke-miterlimit="10" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="#FFFFFF" stroke="none"
+                  d="M 387.4958152789198 239.30032747532834 L 393 218 L 374.046347659522 229.16955965811962"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 387.4958152789198 239.30032747532834 L 393 218 L 374.046347659522 229.16955965811962 L 387.4958152789198 239.30032747532834"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="247" y="423" width="155.326171875" height="57" opacity="0.2"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="240" y="416" width="155.326171875" height="57"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 240 416 L 395.326171875 416 L 395.326171875 473 L 240 473 L 240 416 Z Z" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 240 441 L 395.326171875 441" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 240 451 L 395.326171875 451" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="301.044921875" y="435.5">Client
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="245" y="468.5">+useTarget(Target target)
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 317 415 L 317 341" stroke-miterlimit="10" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 321.209517756016 351.16267485762415 L 317 341 L 312.790482243984 351.16267485762415"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 328 415 L 404 218" stroke-miterlimit="10" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 404.26953007978983 228.9966973922214 L 404 218 L 396.41474725045697 225.96642584384932"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="125" y="122">类适配器
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="671" y="167" width="89.57080078125" height="57" opacity="0.2"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="664" y="160" width="89.57080078125" height="57"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 664 160 L 753.57080078125 160 L 753.57080078125 217 L 664 217 L 664 160 Z Z"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 664 185 L 753.57080078125 185" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 664 195 L 753.57080078125 195" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="699.035400390625" y="179.5">Src
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="669" y="212.5">+srcOutput()
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="879" y="167" width="97.51806640625" height="57" opacity="0.2"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="872" y="160" width="97.51806640625" height="57"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 872 160 L 969.51806640625 160 L 969.51806640625 217 L 872 217 L 872 160 Z Z"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 872 185 L 969.51806640625 185" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 872 195 L 969.51806640625 195" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="902.693603515625" y="179.5">Target
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="877" y="212.5">+targetOutput()
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="792" y="303" width="72.2353515625" height="57" opacity="0.2"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="785" y="296" width="72.2353515625" height="57"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 785 296 L 857.2353515625 296 L 857.2353515625 353 L 785 353 L 785 296 Z Z"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 785 321 L 857.2353515625 321" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 785 344 L 857.2353515625 344" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="798.351806640625" y="315.5">Adapter
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="790" y="338.5">«Src»-src
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 733 218 L 797 295" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="#FFFFFF" stroke="none"
+                  d="M 787.2667184263195 289.8752336826495 L 797 295 L 793.7412876110474 284.49377358105744 L 782.9375670686 278.0811353794093"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 787.2667184263195 289.8752336826495 L 797 295 L 793.7412876110474 284.49377358105744 L 782.9375670686 278.0811353794093 L 787.2667184263195 289.8752336826495"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 842 295 L 898 218" stroke-miterlimit="10" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="#FFFFFF" stroke="none"
+                  d="M 892.8539823657536 239.3896821507012 L 898 218 L 879.2364267385332 229.4860053309045"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 892.8539823657536 239.3896821507012 L 898 218 L 879.2364267385332 229.4860053309045 L 892.8539823657536 239.3896821507012"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="751" y="415" width="155.326171875" height="57" opacity="0.2"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="744" y="408" width="155.326171875" height="57"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 744 408 L 899.326171875 408 L 899.326171875 465 L 744 465 L 744 408 Z Z" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 744 433 L 899.326171875 433" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 744 443 L 899.326171875 443" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="805.044921875" y="427.5">Client
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="749" y="460.5">+useTarget(Target target)
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 821 407 L 821 354" stroke-miterlimit="10" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 825.209517756016 364.16267485762415 L 821 354 L 816.790482243984 364.16267485762415"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 833 407 L 908 218" stroke-miterlimit="10" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 908.1642505571654 228.99877364775142 L 908 218 L 900.3388352517244 225.89345011384626"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-110,-94) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="653" y="130">对象适配器
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
