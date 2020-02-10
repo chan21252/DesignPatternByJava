@@ -1,0 +1,365 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="681.53173828125" height="410">
+    <defs/>
+    <g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="807" y="241" width="86.3017578125" height="44" opacity="0.2"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="800" y="234" width="86.3017578125" height="44"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 800 234 L 886.3017578125 234 L 886.3017578125 278 L 800 278 L 800 234 Z Z"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 800 259 L 886.3017578125 259" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 800 269 L 886.3017578125 269" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="807.0263671875" y="253.5">Implementer
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="679" y="362" width="93.53173828125" height="44" opacity="0.2"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="672" y="355" width="93.53173828125" height="44"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 672 355 L 765.53173828125 355 L 765.53173828125 399 L 672 399 L 672 355 Z Z"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 672 380 L 765.53173828125 380" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 672 390 L 765.53173828125 390" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="679.0263671875" y="374.5">Implementer1
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="807" y="362" width="93.53173828125" height="44" opacity="0.2"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="800" y="355" width="93.53173828125" height="44"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 800 355 L 893.53173828125 355 L 893.53173828125 399 L 800 399 L 800 355 Z Z"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 800 380 L 893.53173828125 380" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 800 390 L 893.53173828125 390" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="807.0263671875" y="374.5">Implementer2
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="927" y="362" width="93.53173828125" height="44" opacity="0.2"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="920" y="355" width="93.53173828125" height="44"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 920 355 L 1013.53173828125 355 L 1013.53173828125 399 L 920 399 L 920 355 Z Z"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 920 380 L 1013.53173828125 380" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 920 390 L 1013.53173828125 390" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="927.0263671875" y="374.5">Implementer3
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 742 354 L 819 279" stroke-miterlimit="10" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="#FFFFFF" stroke="none"
+                  d="M 810.3142775237931 299.2128232829141 L 819 279 L 798.5656423272958 287.15089114784354"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 810.3142775237931 299.2128232829141 L 819 279 L 798.5656423272958 287.15089114784354 L 810.3142775237931 299.2128232829141"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 845 354 L 844 279" stroke-miterlimit="10" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="#FFFFFF" stroke="none"
+                  d="M 852.6892678298642 299.21129942831203 L 844 279 L 835.8526933236918 299.43578708839436"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 852.6892678298642 299.21129942831203 L 844 279 L 835.8526933236918 299.43578708839436 L 852.6892678298642 299.21129942831203"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 943 354 L 866 279" stroke-miterlimit="10" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="#FFFFFF" stroke="none"
+                  d="M 886.4343576727042 287.15089114784354 L 866 279 L 874.6857224762069 299.2128232829141"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 886.4343576727042 287.15089114784354 L 866 279 L 874.6857224762069 299.2128232829141 L 886.4343576727042 287.15089114784354"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="415" y="235" width="167.58984375" height="57" opacity="0.2"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="408" y="228" width="167.58984375" height="57"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 408 228 L 575.58984375 228 L 575.58984375 285 L 408 285 L 408 228 Z Z" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 408 253 L 575.58984375 253" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 408 276 L 575.58984375 276" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="italic"
+                      font-weight="bold" text-decoration="none" x="459.279052734375" y="247.5">Abstraction
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="413" y="270.5">+implementer: Implementer
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 799 256 L 577 256" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="#FFFFFF" stroke="none"
+                  d="M 587.1626748576241 251.790482243984 L 577 256 L 587.1626748576241 260.209517756016 L 599 256"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 587.1626748576241 251.790482243984 L 577 256 L 587.1626748576241 260.209517756016 L 599 256 L 587.1626748576241 251.790482243984"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="359" y="359" width="136.130859375" height="44" opacity="0.2"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="352" y="352" width="136.130859375" height="44"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 352 352 L 488.130859375 352 L 488.130859375 396 L 352 396 L 352 352 Z Z" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 352 377 L 488.130859375 377" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 352 387 L 488.130859375 387" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="361.530517578125" y="371.5">RefinedAbstraction1
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="527" y="362" width="136.130859375" height="44" opacity="0.2"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="520" y="355" width="136.130859375" height="44"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 520 355 L 656.130859375 355 L 656.130859375 399 L 520 399 L 520 355 Z Z" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 520 380 L 656.130859375 380" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 520 390 L 656.130859375 390" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="529.530517578125" y="374.5">RefinedAbstraction2
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 434 351 L 473 286" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="#FFFFFF" stroke="none"
+                  d="M 469.7619572368148 307.760401629193 L 473 286 L 455.32343045103454 299.09728555772483"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 469.7619572368148 307.760401629193 L 473 286 L 455.32343045103454 299.09728555772483 L 469.7619572368148 307.760401629193"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 570 354 L 515 286" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="#FFFFFF" stroke="none"
+                  d="M 534.327880746222 296.50871190297926 L 515 286 L 521.2360940934861 307.09765698975093"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 534.327880746222 296.50871190297926 L 515 286 L 521.2360940934861 307.09765698975093 L 534.327880746222 296.50871190297926"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <rect fill="#C0C0C0" stroke="none" x="655" y="95" width="72.2353515625" height="57" opacity="0.2"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <rect fill="#ffffff" stroke="none" x="648" y="88" width="72.2353515625" height="57"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 648 88 L 720.2353515625 88 L 720.2353515625 145 L 648 145 L 648 88 Z Z" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 648 113 L 720.2353515625 113" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 648 123 L 720.2353515625 123" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="bold" text-decoration="none" x="667.49951171875" y="107.5">Client
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 647 143 L 531 227" stroke-miterlimit="10" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 536.7622549664053 217.630025736314 L 531 227 L 541.7001019030669 224.44895722027522"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 718 146 L 817 233" stroke-miterlimit="10" stroke-dasharray="3"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000"
+                  d="M 806.5873912103542 229.45351185060602 L 817 233 L 812.1449195348331 223.12942789516464"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="#ffffff" stroke="none" d="M 368 424 L 573 424 L 583 434 L 583 477 L 368 477 L 368 424"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 368 424 L 573 424 L 583 434 L 583 477 L 368 477 L 368 424 L 368 424"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 573 424 L 573 434 L 583 434 L 573 424" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="373" y="442">抽象层：
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="373" y="457">聚合实现者而使用功能，
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="373" y="472">其子类又可以泛化出不同的特性。
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="#ffffff" stroke="none" d="M 728 424 L 970 424 L 980 434 L 980 477 L 728 477 L 728 424"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 728 424 L 970 424 L 980 434 L 980 477 L 728 477 L 728 424 L 728 424"
+                  stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <path fill="none" stroke="#000000" d="M 970 424 L 970 434 L 980 434 L 970 424" stroke-miterlimit="10"/>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="733" y="442">实现层：
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="733" y="457">接口定义了功能列表
+                </text>
+            </g>
+        </g>
+        <g transform="translate(-342,-78) scale(1,1)">
+            <g>
+                <path fill="none" stroke="none"/>
+                <text fill="#000000" stroke="none" font-family="Arial" font-size="13px" font-style="normal"
+                      font-weight="normal" text-decoration="none" x="733" y="472">不同的厂商可以根据自身特点实现功能。
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
