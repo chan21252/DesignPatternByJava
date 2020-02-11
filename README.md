@@ -126,3 +126,19 @@ UML类图：
 1. 不同数据库厂商实现了各自的JDBC驱动
 2. 不同平台的多格式视频处理
 3. 银行转账：ATM、柜台、手机转账，用户有普通、银卡、金卡等
+
+## 九、装饰者模式
+
+> 动态的将新特性附加到对象上，采用聚合的方式，比继承更有弹性。类似给物品添加包装。
+
+角色：
+1. competent：组件抽象类
+2. concrete competent：具体组件，组件很多可以抽象出缓存层
+3. decorator：装饰者抽象类，继承competent，并且聚合competent
+4. concrete decorator：具体装饰者
+
+UML类图：
+![](https://uploader.shimo.im/f/OVBuKxgNNy09S3mv.jpg)
+
+应用：
+JDK IO体系中输入输出流的设计。
