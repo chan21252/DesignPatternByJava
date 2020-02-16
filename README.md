@@ -199,4 +199,14 @@ UML类图：
         - 目标不依赖接口，spring aop使用
 
 UML类图：
+
 ![](https://uploader.shimo.im/f/PhPRuSvdvGoNzQOZ.jpg)
+
+## 十四、模板模式
+
+> 抽象父类定义方法模板，具体的实现由子类按需完成。父类类似算法的骨架，子类可以对某些细节修改而不影响算法结构。
+
+UML类图：
+
+![](https://uploader.shimo.im/f/urarhNsbnGo0JsHH.jpg)
+
